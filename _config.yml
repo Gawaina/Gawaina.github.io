@@ -97,6 +97,5 @@ service-worker: true
 
 # Friends
 friends: 
-        title: "Apple Developer",
 
 theme: jekyll-theme-cayman
